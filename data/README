@@ -1,0 +1,10 @@
+Colon Cancer found: http://genomics-pubs.princeton.edu/oncology/affydata/index.html
+
+The labels for each tissue were either converted to 1 or -1 based on their
+sign. For example, -5 was converted to -1 and 5 was converted to 1. 
+
+Mosquito Data found:  http://www.pnas.org/content/99/13/8814.full.pdf
+http://www.pnas.org/content/99/13/8814.full?tab=ds (Used support table 2)
+
+Breast Cancer:  https://www.ncbi.nlm.nih.gov/pubmed/23000897
+	Data given by Ameet Soni

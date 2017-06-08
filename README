@@ -1,0 +1,14 @@
+Algorithms.py
+
+In this file, we run each classifier on each data set. There are 3 functions
+, each runs a classifier on the passed in data set. Eaach function prints
+out the evaluation metrics including a confusion matrix. The breast cancer
+data file opened is in the /scratch/msong2 directory; however, the one submitted
+is in the /home/msong2/cs68/Project-rhwang1-msong2/code/data directory. These
+are the exact two files. 
+
+Parse.py
+
+This file contains all the functions for parsing. Each function parses a
+particular data set. For example, the parse_mosquitoData function will
+specifically parse the mosquito.csv file.
